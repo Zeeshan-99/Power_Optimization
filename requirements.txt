@@ -1,0 +1,6 @@
+gurobipy
+pulp
+scikit-learn
+seaborn
+matplotlib
+numpy
